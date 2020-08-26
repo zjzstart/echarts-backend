@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Iphone X",
+    "stock": 2302,
+    "sales": 222
+  },
+  {
+    "name": "MI",
+    "stock": 3432,
+    "sales": 225
+  },
+  {
+    "name": "Matebook X",
+    "stock": 674,
+    "sales": 3453
+  },
+  {
+    "name": "Meizu",
+    "stock": 6655,
+    "sales": 444
+  },
+  {
+    "name": "OPPO",
+    "stock": 7843,
+    "sales": 44
+  },
+  {
+    "name": "vivo",
+    "stock": 906,
+    "sales": 453
+  },
+  {
+    "name": "HUAWEI",
+    "stock": 433,
+    "sales": 2567
+  },
+  {
+    "name": "1+",
+    "stock": 1344,
+    "sales": 566
+  },
+  {
+    "name": "chui",
+    "stock": 666,
+    "sales": 3444
+  },
+  {
+    "name": "webibob",
+    "stock": 675,
+    "sales": 2244
+  }
+]

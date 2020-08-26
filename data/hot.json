@@ -1,0 +1,31 @@
+[
+  {
+    "name": "女装",
+    "children": [
+      {"name": "裙装", "value": 1001, "children": []},
+      {"name": "外套", "value": 5050, "children": []},
+      {"name": "女士上衣", "value": 2333, "children": []},
+      {"name": "童装", "value": 1222, "children": []},
+      {"name": "裤装", "value": 5444, "children": []}
+    ] 
+  },
+  {
+    "name": "手机数码",
+    "children": [
+      {"name": "平板", "value": 2999, "children": []},
+      {"name": "手机", "value": 5999, "children": []},
+      {"name": "笔记本", "value": 8999, "children": []},
+      {"name": "耳机", "value": 455, "children": []},
+      {"name": "手环", "value": 233, "children": []}
+    ] 
+  },
+  {
+    "name": "食品",
+    "children": [
+      {"name": "泡面", "value": 43, "children": []},
+      {"name": "薯片", "value": 67, "children": []},
+      {"name": "面包", "value": 21, "children": []},
+      {"name": "饮料", "value": 55, "children": []}
+    ] 
+  }
+]

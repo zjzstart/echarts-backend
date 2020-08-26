@@ -1,0 +1,22 @@
+[
+  {"name": "广东", "value": 230},
+  {"name": "安徽", "value": 210},
+  {"name": "北京", "value": 207},
+  {"name": "澳门", "value": 193},
+  {"name": "福建", "value": 188},
+  {"name": "甘肃", "value": 178},
+  {"name": "广西", "value": 174},
+  {"name": "贵州", "value": 165},
+  {"name": "海南", "value": 154},
+  {"name": "河北", "value": 143},
+  {"name": "河南", "value": 137},
+  {"name": "黑龙江", "value": 124},
+  {"name": "湖北", "value": 122},
+  {"name": "湖南", "value": 121},
+  {"name": "吉林", "value": 109},
+  {"name": "江苏", "value": 108},
+  {"name": "江西", "value": 105},
+  {"name": "内蒙古", "value": 95},
+  {"name": "宁夏", "value": 92},
+  {"name": "青海", "value": 87}
+]
